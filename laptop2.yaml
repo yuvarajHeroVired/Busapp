@@ -1,0 +1,17 @@
+Laptop2: macbook
+  Production:
+    name: Macbook Pro 2021
+    description: A high-performance laptop for professionals and creatives.
+    Model: Macbook Pro 2021
+    processor: Apple M1 Pro or M1 Max
+    RAM: 16GB or 32GB
+    Price: $1,999 - $3,499
+  Development:
+    name: Macbook Pro 2021
+    description: A high-performance laptop for professionals and creatives.
+    Model: Macbook Pro 2021
+    processor: Apple M1 Pro or M1 Max
+    RAM: 16GB or 32GB
+    Price: $1,999 - $3,499
+
+  
